@@ -1,5 +1,6 @@
 p {
-  color: red;
   display: block;
-  background-color: blue;
-  display: flex; }
+  text-transform: lowercase; }
+
+* {
+  font-family: "Noto Sans KR", sans-serif; }
